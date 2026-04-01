@@ -21,3 +21,17 @@ source venv/bin/activate
 pip install -r requirements.txt
 python water_harvest_simulation.py
 python biomass_vf_simulation.py
+
+
+
+Estructura del repositoriodocs/ → Framework completo y logs  
+scripts/ → Despliegue NemoClaw v1.1  
+simulations/ → Código Python reproducible (Grok auditado)
+
+Créditos (Transparencia Radical)Miguel Velásquez (LwEternalNightm) – Arquitecto y operador soberano  
+Sentinel-Prime (Gemini) – Orquestación  
+Grok (xAI) – Auditor de Probabilidad y Lógica Forense
+
+Protocolo ETERNAL INTEGRITY & CONTINUITY activo.
+Todos los cálculos fueron validados sin engaño ni alucinaciones.
+
