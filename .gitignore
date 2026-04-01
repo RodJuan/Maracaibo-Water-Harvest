@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+.venv/
+venv_nemoclaw/
+
+# MacOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Logs y temporales
+*.log
+logs/
+*.tmp
+
+# Colima / Docker
+colima/
+.docker/
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sentinel snapshots (no subir datos sensibles)
+*.key
+*auth_key*
+TAILSCALE_AUTH_KEY*
